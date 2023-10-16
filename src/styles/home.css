@@ -3,7 +3,7 @@
 /* Thiết lập phông chữ và màu chữ cơ bản */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f5f0f0;
+    background-color: #c5c5c5;
     margin: 0;
     padding: 0;
   }
@@ -13,7 +13,7 @@ body {
     font-size: 24px;
     font-weight: bold;
     margin: 20px 20px 0;
-    color: #333333;
+    color: #ff00aa;
   }
   
   /* Container cho mỗi bài post */
@@ -30,7 +30,7 @@ body {
   /* Link "Edit" */
   a {
     text-decoration: none;
-    color: #1877f2; /* Màu xanh của Facebook */
+    color: #ff0000; /* Màu xanh của Facebook */
     font-weight: bold;
     margin-right: 10px;
   }
@@ -43,7 +43,7 @@ body {
   button {
     background-color: #fff;
     border: none;
-    color: #1877f2;
+    color: #00ff37;
     cursor: pointer;
     font-weight: bold;
   }
@@ -58,7 +58,7 @@ body {
   }
   
   button.comment-button {
-    background-color: #1877f2;
+    background-color: #770081;
     border: none;
     color: #fff;
     cursor: pointer;
@@ -87,7 +87,7 @@ body {
   
   /* Nút "Create New Post" và link "Back to Home" */
   .link-button {
-    background-color: #1877f2;
+    background-color: #004297;
     border: none;
     border-radius: 5px;
     color: #fff;

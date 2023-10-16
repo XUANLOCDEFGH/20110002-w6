@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
+import 'C:/Users/nguye/OneDrive/Máy tính/homework_reactapp-master/20110002/src/styles/home.css'
 
 const Home = ({ posts, deletePost }) => {
   const [localPosts, setLocalPosts] = useState([]);
